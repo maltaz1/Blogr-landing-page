@@ -1,0 +1,18 @@
+@keyframes header {
+    from {
+        transform: translateY(-50px);
+    } to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes hero {
+    from {
+        transform: scale(0.5);
+        transform: translateY(-50px);
+        opacity: 0;
+    } to {
+        transform: scale(1);
+        opacity: 100;
+    }
+}
