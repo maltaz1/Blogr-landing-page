@@ -7,8 +7,7 @@ O projeto foi criado para estudo e prática de HTML, CSS e JavaScript puro, com 
 
 ## 🚀 Funcionalidades
 
--Hero section com call-to-action
-
+- Hero section com call-to-action
 - Layout totalmente responsivo (mobile, tablet e desktop)
 - Menu dropdown interativo no desktop e mobile
 - Design moderno e fiel ao layout proposto
